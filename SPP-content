@@ -1,0 +1,43 @@
+1.	Solution Provider Program (SPP) Overview
+1.	Program Resale Models
+1.	Business Delivery Models: End Customer Account Model (ECAM), Solution Provider Account Model (SPAM)
+2.	Support Models: Resold Support, Partner-Led Support
+3.	Reference Blog: https://aws.amazon.com/blogs/mt/aws-partners-determine-aws-support-plans-in-organization/
+2.	Solution Provider Discounts - Overview
+2.	FTR
+1.	Overview
+2.	Requirements
+3.	How and when to apply
+3.	Consent To Agreement
+1.	AWS Operational Transfer - Phases and Options - Overview
+1.	Common reason for Account transfer
+2.	CTA steps and submission process
+2.	Transferring Program Accounts
+3.	Update Account Settings
+4.	Off-boarding & Onboarding steps
+5.	APN End User Reporting
+4.	Billing
+1.	Update Payer account settings (Payment method etc.)
+2.	Add/Remove MFA tokens, IAM users etc.
+3.	AWS credits and charges
+5.	Cost
+1.	Savings reports & analysis
+2.	Spend reports & analysis
+6.	Program Account Creation & Administration
+1.	Program Account Creation
+1.	Master Program Accounts
+2.	End Customer Accounts
+3.	Solution Provider Accounts
+2.	Account Administration
+1.	Authentication & Account Policies
+2.	Root User Credentials
+7.	SPP Resale Setup - End Customer Onboarding - Tech Solution Architecture
+1.	AWS Organization Setup - Implementation Patterns (for both ECAM and SPAM models)
+2.	Technical Considerations for SPP Partner & End-Customer while solutioning
+3.	Operational Best Practices
+1.	Is root account essential? Account ownership / Root Account access
+2.	Setting up shared security model (if needed for exceptional scenarios) How does that work?
+3.	How to Monitor and Notify for any AWS Account Root User activity?
+4.	Security and compliance considerations
+4.	Reference Architecture: https://aws.amazon.com/blogs/architecture/field-notes-building-a-shared-account-structure-using-aws-organizations/
+
